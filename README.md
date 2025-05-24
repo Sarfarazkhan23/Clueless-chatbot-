@@ -1,4 +1,4 @@
-# 🧠 Silly AI Chatbot
+# 🧠 Clueless AI Chatbot
 
 A Flask-based web app that listens to your audio or text, responds with funny, overly sweet, and clueless replies using **LLaMA3**, converts the response to audio with **ElevenLabs**, and fetches a matching GIF using **GIPHY**.
 
